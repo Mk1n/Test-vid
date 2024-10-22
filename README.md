@@ -1,2 +1,2 @@
 # Test-vid
-تحميل github
+شرح طريقة تجحميل برنامج github
